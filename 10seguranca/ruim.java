@@ -1,0 +1,1 @@
+String sql = "SELECT * FROM usuario WHERE login = '" + login + "'";
